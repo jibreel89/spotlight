@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.wrapper{
+    width: 90%;
+    margin: 0 auto;
+}
+header{
+    font-size: x-large;
+    font-weight: 70%;
+    padding-top: 4%;
+}
+img{
+    display: block;
+    width: 66%;
+}
+.house img{
+    padding-top: 68%;
+}
+ p{
+    padding-top: 20px;
+}
+.images{
+    display: flex;
+}
+.pot img{
+    width: 38%;
+}
